@@ -2,7 +2,8 @@
   "name": "evila.me",
   "version": 2,
   "alias": [
-    "evila.me"
+    "evila.me",
+    "evila"
   ],
   "builds": [
     {
