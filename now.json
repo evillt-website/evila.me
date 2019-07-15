@@ -9,5 +9,8 @@
       "src": "*.html",
       "use": "@now/static"
     }
-  ]
+  ],
+  "github": {
+    "silent": true
+  }
 }
