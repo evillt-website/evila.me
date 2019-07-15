@@ -1,0 +1,13 @@
+{
+  "name": "evila.me",
+  "version": 2,
+  "alias": [
+    "evila.me"
+  ],
+  "builds": [
+    {
+      "src": "*.html",
+      "use": "@now/static"
+    }
+  ]
+}
